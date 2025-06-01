@@ -15,6 +15,7 @@ public class demoKelas {
         System.out.println("urutan Riska: " + K.urutan("Riska"));
         System.out.println("siswa di index 2: " + K.ambilDi(2).nama);
 
+        System.out.println("==================");
         K.hapus("Riska");
         System.out.println("setelah hapus Riska:");
         K.tampilkansemua();

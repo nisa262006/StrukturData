@@ -61,6 +61,7 @@ public class Kelas {
         }
     
         public void hapus(String nama){
+            System.out.println("====================");
             if (pertama == null) return;
             if (pertama.nama.equals(nama)){
                 pertama = pertama.berikutnya;
