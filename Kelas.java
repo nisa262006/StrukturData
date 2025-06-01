@@ -98,7 +98,6 @@ public class Kelas {
                 System.out.println("siswa sekarang :"+sekarang.nama);
     
             }
-    
         }
         private siswa cariTerakhir(){
             siswa sekarang = pertama;

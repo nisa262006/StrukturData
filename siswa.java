@@ -7,7 +7,6 @@ public class siswa {
         this.berikutnya = null;
     }
 
-
     public siswa(){
         this.berikutnya = null;
     }

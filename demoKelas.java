@@ -1,6 +1,6 @@
 public class demoKelas {
     public static void main(String[] args) {
-        siswa Rahma = new siswa("Rahma");
+        siswa Rahma = new siswa("Nisa");
 
         Kelas K = new Kelas(Rahma);
 
